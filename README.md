@@ -17,11 +17,11 @@ Although the Baddeley and Hitch (1974) model was introduced in a volume of *The 
 One key objective of this special issue is to assemble a range of papers that reflect the broad scope of empirical, applied, computational, developmental, and theoretical work relevant to contemporary working memory research in the Baddeley and Hitch tradition. Another key objective is to incorporate the constructive, diverse character of the working memory community that welcomes contributions, whether from new or experienced researchers, whether supportive or critical of particular ideas. To foster such balance, the timeline includes an expression of interest phase that will help to manage the balance of potential work. 
 
 ## Proposed Timeline  
-*	Letter of intent* deadline: 15 September 2023 
+*	Letter of intent<sup>*</sup>deadline: 15 September 2023 
 *	Submission deadline of recommended manuscripts: 31 January 2024 
 *	Decision letters expected on 1st submission phase March 2024 
 *	Deadline for accepting manuscripts: 1 August 2024 
   
-"\*" Letter of intent to include a brief rationale for submitting to the Special Issue and a structured abstract, max 150 words per section. Background; Aims, Sample(s), Methods, Results (if appropriate), Conclusions (as appropriate). The letter of intent will be used to make preliminary decisions about recommending submissions for a full-scale review based on special issue balance, viability of research etc. 
+\* Letter of intent to include a brief rationale for submitting to the Special Issue and a structured abstract, max 150 words per section. Background; Aims, Sample(s), Methods, Results (if appropriate), Conclusions (as appropriate). The letter of intent will be used to make preliminary decisions about recommending submissions for a full-scale review based on special issue balance, viability of research etc. 
   
 Authors wishing to propose Registered Reports are strongly encouraged to make early submissions to make the overall timeline feasible. Potential authors are welcome to contact the editorial team to discuss the special issue. 
