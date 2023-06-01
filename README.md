@@ -1,4 +1,4 @@
-# Special Issue provisional title: 50 years of working memory: Contemporary insights for the Baddeley & Hitch (1974) framework 
+# Special Issue provisional title: 50 years of working memory: Contemporary insights for the Baddeley and Hitch (1974) framework 
 
 ## Guest Editors:  
 John Towse, Lancaster University (https://orcid.org/0000-0003-1183-5508) 
