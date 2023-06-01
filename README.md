@@ -22,6 +22,6 @@ One key objective of this special issue is to assemble a range of papers that re
 *	Decision letters expected on 1st submission phase March 2024 
 *	Deadline for accepting manuscripts: 1 August 2024 
   
-* Letter of intent to include a brief rationale for submitting to the Special Issue and a structured abstract, max 150 words per section. Background; Aims, Sample(s), Methods, Results (if appropriate), Conclusions (as appropriate). The letter of intent will be used to make preliminary decisions about recommending submissions for a full-scale review based on special issue balance, viability of research etc. 
+"\*" Letter of intent to include a brief rationale for submitting to the Special Issue and a structured abstract, max 150 words per section. Background; Aims, Sample(s), Methods, Results (if appropriate), Conclusions (as appropriate). The letter of intent will be used to make preliminary decisions about recommending submissions for a full-scale review based on special issue balance, viability of research etc. 
   
 Authors wishing to propose Registered Reports are strongly encouraged to make early submissions to make the overall timeline feasible. Potential authors are welcome to contact the editorial team to discuss the special issue. 
