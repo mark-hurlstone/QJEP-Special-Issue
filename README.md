@@ -19,7 +19,7 @@ One key objective of this special issue is to assemble a range of papers that re
 ## Proposed Timeline:  
 *	Letter of intent<sup>*</sup>deadline: 15 September 2023 
 *	Submission deadline of recommended manuscripts: 31 January 2024 
-*	Decision letters expected on 1st submission phase March 2024 
+*	Decision letters expected on 1st submission phase: March 2024 
 *	Deadline for accepting manuscripts: 1 August 2024 
   
 \* Letter of intent to include a brief rationale for submitting to the Special Issue and a structured abstract, max 150 words per section. Background; Aims, Sample(s), Methods, Results (if appropriate), Conclusions (as appropriate). The letter of intent will be used to make preliminary decisions about recommending submissions for a full-scale review based on special issue balance, viability of research etc. 
