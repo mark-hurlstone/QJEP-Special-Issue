@@ -1,10 +1,10 @@
 # Special Issue provisional title: 50 years of working memory: Contemporary insights for the Baddeley & Hitch (1974) framework 
 
 Guest Editors:  
-John Towse (https://orcid.org/0000-0003-1183-5508) 
-Amy Atkinson (https://orcid.org/000-0001-9536-6950) 
-Mark Hurlstone (https://orcid.org/0000-0001-9920-6284) 
-Satoru Saito (https://orcid.org/0000-0002-0403-3606) 
+John Towse (https://orcid.org/0000-0003-1183-5508)\\ 
+Amy Atkinson (https://orcid.org/000-0001-9536-6950)\\
+Mark Hurlstone (https://orcid.org/0000-0001-9920-6284)\\ 
+Satoru Saito (https://orcid.org/0000-0002-0403-3606)\\ 
 
 ## Special Issue call  
 The multicomponent model of working memory proposed by Alan Baddeley and Graham Hitch nearly five decades ago is one of the oldest and most influential models in cognitive psychology. In their seminal paper, Baddeley and Hitch (1974) set out a framework for understanding immediate memory processes that replaced the older concept of a unitary short-term memory store with a working memory system comprising domain-specific storage components (the articulatory loop and visuo-spatial scratch-pad) and a limited capacity central processor (the central executive), and they proposed key dimensions of the relationship between these components and cognition. Although the specific details of the model have evolved since then, its broad structure remains fundamentally unchanged, except for the addition of a fourth domain-general storage component (the episodic buffer; Baddeley, 2000). The model has enjoyed tremendous success in this time, stimulating experimental, developmental, neuropsychological, and neuroimaging research on its structure, and computational modelling to formally define the function of some of its components. It has also been productively applied across a wide range of practical contexts including vocabulary acquisition, developmental disorders, reading, arithmetic, language comprehension, and neuropsychological disorders to name but a few areas of application. 
