@@ -1,6 +1,7 @@
 lsi: false
 safe: true
-source: mark-hurlstone/QJEP-Special-Issue-Baddley-Hitch-WM-Model
+source: mark-hurlstone/QJEP-Special-Issue
+title: null
 incremental: false
 highlighter: rouge
 gist:
