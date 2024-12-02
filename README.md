@@ -40,3 +40,5 @@ Authors wishing to propose Registered Reports are strongly encouraged to make ea
 ## Publication
 The Special Issue has now been published. Please click [here](<https://mark-hurlstone.github.io/QJEP-Special-Issue-Pub/>)  for the list of papers with links for accessing them through the QJEP website.
 
+<br>
+<br>
